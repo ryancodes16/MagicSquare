@@ -32,7 +32,7 @@ public class MagicSquare
             prevr = row;
             prevc = col;
             row--; // **********************
-            col++; //increments up one row, right oone col
+            col++; //increments up one row, right one col
             if(col < 0)
             {
                 col = 1;
